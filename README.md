@@ -5,3 +5,5 @@ Videos que usa la web real de Juventus Academy Las Vegas (el hosting rechaza arc
 
 - `v1/tryouts-hero-pc.mp4` y `v1/tryouts-hero-movil.mp4`: portada de la página de tryouts 2026-27 (16-10-2026).
   Para cambiarlos, subir una carpeta `v2/` nueva y actualizar el bloque HTML `jlv2627` en Elementor (página 6616).
+
+- `jam-pre-academy/v1/`: medios de la landing de Pre-Academy de **jacademymiami.com/pre-academy/** (Juventus Academy Miami, 29-10-2026). No borrar ni renombrar: la página los enlaza directamente.
